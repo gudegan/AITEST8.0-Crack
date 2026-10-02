@@ -1,0 +1,10 @@
+# 忽略分析中间产物与重复打包（不随仓库分发）
+解包/
+_work/
+
+# 原版与其它重复包体
+AITEST8.0_原版备份.exe
+AITEST8.0_全能.exe
+AITEST8.0.rar
+AITEST8.0_破解版.rar
+AITEST8.0_破解版.exe.zip
